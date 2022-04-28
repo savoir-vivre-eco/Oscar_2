@@ -1,7 +1,8 @@
 # Site settings
-title:
+title:Luso_Piscines_2A
 email:
-description: > # this means to ignore newlines until "baseurl:"
+description: LUSO PISCINE 2A est spécialiste de la construction et de la rénovation de piscines, en Corse-du-sud, nos pisciniers sont là pour vous
+guider à toutes les étapes de votre projet.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
